@@ -32,8 +32,6 @@ def extract_info(data):
 
 
 
-
-
 json_data = [
   {
     "_id": "5a021763dc9d2373dfe68f45cc99745122bf2390",
