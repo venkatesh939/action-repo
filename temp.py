@@ -186,6 +186,7 @@ data = {
 }
 
 
+
 def extract_info(data):
 
     # record = {
